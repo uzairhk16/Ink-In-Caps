@@ -19,10 +19,10 @@ export default function Home() {
           <span className="tech-2 mt-20 ml-22">THROUGH DESIGN</span>
         </div>
       </div>
-      <div className="office w-full ">
+      <div className="office w-full mb-10">
         <img src={lucknow} alt="/" />
       </div>
-      <div className="solutions">
+      <div className="solutions pt-10 rounded-t-4xl">
         <div className=" flex justify-center">
           <div className="sol">
             <span className="fontt our sm:text-5xl md:text-6xl lg:text-8xl">

@@ -1,8 +1,8 @@
-import Ourwork from "./pages/ourwork";
-import Solutions from "./pages/solutions";
-import Career from "./pages/career";
-import Usecases from "./pages/Usecases";
-import Contact from "./pages/contact";
-import Home from "./components/Home/Home";
+import Ourwork from "./pages/Ourwork.jsx";
+import Solutions from "./pages/Solutions.jsx";
+import Career from "./pages/Career.jsx";
+import Usecases from "./pages/Usecases.jsx";
+import Contact from "./pages/Contact.jsx";
+import Home from "./components/Home/Home.jsx";
 
 export { Ourwork, Solutions, Career, Usecases, Contact, Home };

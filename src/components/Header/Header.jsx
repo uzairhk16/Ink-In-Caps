@@ -4,7 +4,7 @@ export default function Header() {
     <header className="shadow z-50  top-0 relative">
       <nav className=" border-gray-200 px-4 lg:px-6 py-2.5 ">
         <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl h-16">
-          <Link to="/" className="flex items-center">
+          <Link to="/" className="flex items-center"> 
             <img
               src="https://media.designrush.com/agencies/352043/conversions/Ink-In-Caps-logo-profile.jpg"
               className="mr-8 h-18"
